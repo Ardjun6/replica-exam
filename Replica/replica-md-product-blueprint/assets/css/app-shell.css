@@ -1,0 +1,2 @@
+:root { --replica-surface: #111827; --replica-border: #374151; --replica-accent: #60a5fa; }
+.replica-shell { min-height: 100vh; }

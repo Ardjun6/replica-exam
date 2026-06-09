@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "name": "Pages by Area",
+  "query": {
+    "type": "markdown"
+  },
+  "view": {
+    "type": "table",
+    "columns": [
+      "title",
+      "area",
+      "status",
+      "related"
+    ]
+  }
+}

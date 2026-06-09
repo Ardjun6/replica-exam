@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "title": "Replica.md Roadmap",
+  "nodes": [
+    {
+      "id": "strategy",
+      "type": "page",
+      "target": "00-Product-Strategy/Product Blueprint.md",
+      "x": 80,
+      "y": 80
+    },
+    {
+      "id": "core",
+      "type": "page",
+      "target": "03-Core-System/Workspace and Filesystem.md",
+      "x": 360,
+      "y": 80
+    },
+    {
+      "id": "quality",
+      "type": "page",
+      "target": "08-Quality/Security and Permissions.md",
+      "x": 640,
+      "y": 80
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-strategy-core",
+      "from": "strategy",
+      "to": "core",
+      "label": "guides"
+    },
+    {
+      "id": "edge-core-quality",
+      "from": "core",
+      "to": "quality",
+      "label": "requires"
+    }
+  ]
+}

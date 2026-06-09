@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "nodes": [
+    {
+      "id": "product",
+      "type": "page",
+      "target": "00-Product-Strategy/Product Blueprint.md",
+      "x": 120,
+      "y": 100
+    },
+    {
+      "id": "system",
+      "type": "page",
+      "target": "02-Architecture/System Overview.md",
+      "x": 420,
+      "y": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "from": "product",
+      "to": "system",
+      "label": "defines architecture"
+    }
+  ]
+}
