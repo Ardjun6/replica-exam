@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "activePaneId": "pane-1",
+  "root": {
+    "type": "pane",
+    "paneId": "pane-1"
+  },
+  "panes": {
+    "pane-1": {
+      "id": "pane-1",
+      "activeTabId": "tab-1",
+      "tabs": [
+        {
+          "id": "tab-1",
+          "path": "school/programmeren/exam-notes.md"
+        }
+      ],
+      "history": {
+        "back": [],
+        "forward": []
+      },
+      "linkedGroupId": null
+    }
+  }
+}
