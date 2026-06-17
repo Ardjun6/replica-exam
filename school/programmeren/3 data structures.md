@@ -160,11 +160,68 @@ C
 
 ---
 
-# Final Comparison
-
-| Structure | Add                          | Remove                             | Peek                           |
-| --------- | ---------------------------- | ---------------------------------- | ------------------------------ |
-| **Stack** | `push()`                     | `pop()`                            | `peek()`                       |
-| **Queue** | `enqueue()`                  | `dequeue()`                        | `peek()`                       |
-| **Deque** | `add_front()` / `add_rear()` | `remove_front()` / `remove_rear()` | `peek_front()` / `peek_rear()` |
+# Code 
+## Stack
+```python
+class Stack:
+    def __init__(self):
+        self.items = []
+      
+    def push(self, item):
+        self.items.append(item)
+      
+    def pop(self):
+        return self.items.pop()
+      
+    def peek(self):
+        return self.items[-1]
 ```
+## Queue
+
+```python
+class Queue:
+    def __init__(self):
+        self.items = []
+      
+    def enqueue(self, item):
+        self.items.append(item)
+      
+    def dequeue(self):
+        return self.items.pop(0)
+      
+    def peek(self):
+        return self.items[0]
+```
+
+## Deque
+```python
+class Deque:
+    def __init__(self):
+        self.items = []
+      
+    def add_front(self, item):
+        self.items.insert(0, item)
+      
+    def add_rear(self, item):
+        self.items.append(item)
+      
+    def remove_front(self):
+        return self.items.pop(0)
+      
+    def remove_rear(self):
+        return self.items.pop()
+      
+    def peek_front(self):
+        return self.items[0]
+    
+    def peek_rear(self):
+        return self.items[-1]
+```
+# Final comparison
+
+| Structure | Add | Remove | Peek |
+|---|---|---|---|
+| **Stack** | `push()` | `pop()` | `peek()` |
+| **Queue** | `enqueue()` | `dequeue()` | `peek()` |
+| **Deque** | `add_front()` / `add_rear()` | `remove_front()` / `remove_rear()` | `peek_front()` / `peek_rear()` |
+

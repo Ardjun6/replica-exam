@@ -12,27 +12,23 @@
       "tabs": [
         {
           "id": "tab-1",
-          "path": "school/programmeren/exam-notes.md"
-        },
-        {
-          "id": "tab-2",
           "path": "school/programmeren/3 data structures.md"
         },
         {
-          "id": "tab-3",
+          "id": "tab-2",
           "path": "school/programmeren/tree.md"
         },
         {
-          "id": "tab-4",
+          "id": "tab-3",
           "path": "school/programmeren/recursive.md"
         }
       ],
       "history": {
         "back": [
-          "school/programmeren/tree.md",
-          "school/programmeren/exam-notes.md",
+          "school/programmeren/etst.md",
+          "school/programmeren/recursive.md",
           "school/programmeren/3 data structures.md",
-          "school/programmeren/recursive.md"
+          "school/programmeren/tree.md"
         ],
         "forward": []
       },
