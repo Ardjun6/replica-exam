@@ -1,4 +1,3 @@
-```python
 # Tree - understanding 
 
 ```text
@@ -77,12 +76,8 @@ print("In-order:")
 inorder(A)
 # In-order: Left → Root → Right
 # D B E A F C G
-
 print("Post-order:")
 postorder(A)
 # Post-order: Left → Right → Root
 # D E B F G C A
-
-```
-```
 ```
