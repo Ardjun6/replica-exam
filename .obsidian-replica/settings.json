@@ -4,12 +4,12 @@
   "accentColor": "#0f9f7a",
   "fontSize": 15,
   "showPreview": false,
-  "markdownViewMode": "source",
+  "markdownViewMode": "livePreview",
   "expandedFolders": [
     "school/Wiskunde",
     "school/Datalab"
   ],
-  "fileSort": "modified",
+  "fileSort": "created",
   "startupBehavior": "reopenLastVault",
   "reopenLastVault": false,
   "defaultNewNoteFolder": "",

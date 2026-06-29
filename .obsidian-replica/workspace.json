@@ -12,10 +12,6 @@
       "tabs": [
         {
           "id": "tab-1",
-          "path": "school/programmeren/blok2.md"
-        },
-        {
-          "id": "tab-2",
           "path": "Individuele-Reflectie.md"
         },
         {
@@ -23,8 +19,12 @@
           "path": "Errors-To-Fix v1.0.2.md"
         },
         {
+          "id": "tab-2",
+          "path": "calendar.md"
+        },
+        {
           "id": "tab-4",
-          "path": "Replica/ReplicaMD/replica-md-product-blueprint/Templates/Daily Template.md"
+          "path": "Replica/ARCHITECTURE.md"
         }
       ],
       "history": {
@@ -38,13 +38,15 @@
           "school/Wiskunde/blok-3/Untitled-34.md",
           "school/Data2/blok-2/join-aliases.md",
           "Replica/ROADMAP.md",
-          "Replica/ARCHITECTURE.md",
           "school/Datalab/TO-FIX.md",
-          "calendar.md",
           "Replica/ReplicaMD/replica-md-product-blueprint/Templates/Daily Template.md",
-          "Errors-To-Fix v1.0.2.md",
+          "school/Data2/blok-2/relaties-tussen-tabellen.md",
+          "school/Data2/blok-2/waarom-relaties-belangrijk-zijn.md",
           "school/programmeren/blok2.md",
-          "Individuele-Reflectie.md"
+          "Individuele-Reflectie.md",
+          "Errors-To-Fix v1.0.2.md",
+          "Replica/ARCHITECTURE.md",
+          "calendar.md"
         ],
         "forward": []
       },

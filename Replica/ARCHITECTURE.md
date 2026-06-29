@@ -4,7 +4,6 @@ Replica is an Electron app split into four cooperating parts with deliberately
 strict boundaries. The guiding rule: **pure logic is testable and portable, the
 main process owns the disk and the index, the preload bridge is the single
 audited choke point, and the renderer only renders.**
-
 ```
 src/
   shared/    Typed contracts shared by every process (no behaviour)
