@@ -12,23 +12,39 @@
       "tabs": [
         {
           "id": "tab-1",
-          "path": "school/programmeren/3 data structures.md"
+          "path": "school/programmeren/blok2.md"
         },
         {
           "id": "tab-2",
-          "path": "school/programmeren/tree.md"
+          "path": "Individuele-Reflectie.md"
         },
         {
           "id": "tab-3",
-          "path": "school/programmeren/recursive.md"
+          "path": "Errors-To-Fix v1.0.2.md"
+        },
+        {
+          "id": "tab-4",
+          "path": "Replica/ReplicaMD/replica-md-product-blueprint/Templates/Daily Template.md"
         }
       ],
       "history": {
         "back": [
           "school/programmeren/etst.md",
+          "school/programmeren/tree.md",
           "school/programmeren/recursive.md",
           "school/programmeren/3 data structures.md",
-          "school/programmeren/tree.md"
+          "school/Wiskunde/blok-2/centrummaten-en-spreidingsmaten.md",
+          "school/Wiskunde/blok-3/permutatie-faculteit-combinaties.md",
+          "school/Wiskunde/blok-3/Untitled-34.md",
+          "school/Data2/blok-2/join-aliases.md",
+          "Replica/ROADMAP.md",
+          "Replica/ARCHITECTURE.md",
+          "school/Datalab/TO-FIX.md",
+          "calendar.md",
+          "Replica/ReplicaMD/replica-md-product-blueprint/Templates/Daily Template.md",
+          "Errors-To-Fix v1.0.2.md",
+          "school/programmeren/blok2.md",
+          "Individuele-Reflectie.md"
         ],
         "forward": []
       },

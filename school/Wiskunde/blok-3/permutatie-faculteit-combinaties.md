@@ -2,7 +2,7 @@
 |---------------------|------------|------------|-----------|
 | Somregel            | **“Of”** | Wat is de kans dat je **1 of 6 gooit**?  \nP(1 of 6)  \nP(1) + P(6)  \n1/6 + 1/6 = 2/6 = 1/3 | + |
 | Productregel        | **“En”** | Wat is de kans dat je een **rode en blauwe knikker pakt bij 2 knikkers pakken**?  \nP(rood en blauw)  \nP(rood) · P(blauw)  \n1/20 · 3/20 | × |
-| Complementregel     | **“Niet”** | 1 − P(wel)  \nWat is de kans dat je **niet 6 gooit**?  \n1 − P(6 gooien)  \n1 − 1/6 = 5/6 | − |
+| Complementregel     | **“Niet”** | 1 − P(wel)  \nWat is de kans dat je **niet 6 gooit**?  \n1 − P(6 gooien)  \n1 − 1/6 = 5/6 | |
 
 | Onderwerp | Uitleg | Voorbeeld | Formule |
 |------------|---------|------------|----------|

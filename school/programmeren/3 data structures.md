@@ -1,4 +1,4 @@
-# Reference: FIFO and LIFO
+   # Reference: FIFO and LIFO
 
 | Term     | Full form           | Meaning                                | Example |
 | -------- | ------------------- | -------------------------------------- | ------- |

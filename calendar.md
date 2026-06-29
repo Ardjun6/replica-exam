@@ -954,5 +954,15 @@
 
 | Time | Title | Tag | Location |
 |---|---|---|---|
-| 16:00-17:30 | Datalab leren | Datalab · Zelfstudie | Zelfstudie |
-| 18:30-20:00 | Datalab leren | Datalab · Zelfstudie | Zelfstudie |
+| 16:00-17:30 | wiskunde leren | Wiskunde · Zelfstudie | Zelfstudie |
+| 18:30-21:00 | Wiskunde leren | Wiskunde · Zelfstudie | Zelfstudie |
+| 21:10-01:00 | ReplicaDesk maken | ReplicaDesk | Project |
+
+## 2026-06-23
+
+| Time | Title | Tag | Location |
+|---|---|---|---|
+| 15:20-16:00 | SIM siezo | Gezelligheid | Gezelligheid |
+| 16:00-17:30 | wiskunde leren | Wiskunde · Zelfstudie | Zelfstudie |
+| 18:30-21:00 | Wiskunde leren | Wiskunde · Zelfstudie | Zelfstudie |
+| 21:10-01:00 | ReplicaDesk maken | ReplicaDesk | Project |

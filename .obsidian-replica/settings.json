@@ -1,15 +1,15 @@
 {
-  "schemaVersion": 11,
-  "theme": "system",
-  "accentColor": "#5b6cff",
+  "schemaVersion": 14,
+  "theme": "mint",
+  "accentColor": "#0f9f7a",
   "fontSize": 15,
   "showPreview": false,
-  "markdownViewMode": "livePreview",
+  "markdownViewMode": "source",
   "expandedFolders": [
-    "school",
-    "school/programmeren"
+    "school/Wiskunde",
+    "school/Datalab"
   ],
-  "fileSort": "name",
+  "fileSort": "modified",
   "startupBehavior": "reopenLastVault",
   "reopenLastVault": false,
   "defaultNewNoteFolder": "",
@@ -56,5 +56,8 @@
     "kind": "basic"
   },
   "planLastVerifiedAt": 0,
-  "licenseKey": ""
+  "licenseKey": "",
+  "savedSearches": [],
+  "hotkeyOverrides": {},
+  "onboardingSeen": true
 }
